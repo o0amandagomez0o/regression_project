@@ -1,0 +1,17 @@
+env.py
+.ipynb_checkpoints/
+__pycache__
+.DS_Store
+Thumbs.db
+.vscode/
+*.csv
+*.json
+*.xlsx
+dirty.ipynb
+dirty001.ipynb
+wr.py
+zillow_logo.png
+zillow.tgn
+zillow001.csv
+zillow002.csv
+zillow003.csv
