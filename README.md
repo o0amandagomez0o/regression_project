@@ -144,6 +144,9 @@ ___
 [Jump to Navigation](#navigation)
 ___
 # <a name="workflow"></a>Workflow
+
+Please pull my repo first to use the following links to guide you through the data science pipeline. Enjoy!
+
 1. [Prep Your Repo](#prep-your-repo)
 1. [Import](#import)
 1. [Acquire Data](#acquire-data)
